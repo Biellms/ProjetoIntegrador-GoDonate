@@ -5,6 +5,7 @@
   <p>Desenvolvimento Web feito para um projeto integrador, apresentando no 3º Semestre da faculdade de Análise e Desenvolvimento de Sistemas pela FAM (Centro Universitário das Américas).
   </p>
   </div>
+  <h3><b><a href="https://github.com/Biellms/Hackathon-FAM-2021/blob/main/Documentação/Certificado%20Menção%20Honrosa%20Hackathon.pdf" target="_blank"><p target="blank">• Certificado 🏆</a></b></h3>
 <hr>
 <div>
   <h3><b><center>Resumo</b></h3>
