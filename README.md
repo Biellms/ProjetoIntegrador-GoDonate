@@ -36,7 +36,7 @@ A ideia do projeto em si, é trazer a vantagem e acessibilidade que a tecnologia
   
 ### **Protótipo Navegável** <img align="center" alt="Biell-Figma" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 
-- <a href="https://www.figma.com/proto/I28Hxl6ExJ052KJ8sKla9u/Gestor-Donativo?node-id=21%3A59&scaling=contain&page-id=0%3A1&starting-point-node-id=21%3A59" target="_blank"><p target="_blank">Acesse clicando aqui</a>
+<a href="https://www.figma.com/proto/I28Hxl6ExJ052KJ8sKla9u/Gestor-Donativo?node-id=21%3A59&scaling=contain&page-id=0%3A1&starting-point-node-id=21%3A59" target="_blank"><p target="_blank">• Acesse clicando aqui</a>
 
 #
 
