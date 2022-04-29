@@ -1,17 +1,17 @@
 <div align = "center">
   <h3>
-  <b>Projeto Integrador / GoDonate</b></br></div>
-  <div align = "center">
+  <b>Projeto Integrador / GoDonate</b></h3>
   <p>Desenvolvimento Web feito para um projeto integrador, apresentando no 3º Semestre da faculdade de Análise e Desenvolvimento de Sistemas pela FAM (Centro Universitário das Américas).
   </p>
   </div>
   <h4><b><a href="https://github.com/Biellms/ProjetoIntegrador-GoDonate/blob/main/Documentação/Certificado%20CATI%20-%20FAM.pdf" target="_blank"><p target="blank">• Certificado 🏆</a></b></h3>
+  
 <hr>
 
-<div>
-  <h3><b><center>Resumo</b></h3>
-  <p>O artigo desse repositório apresenta o planejamento e criação de um protótipo de um aplicativo, no qual a problemática é a dificuldade financeira que uma pessoa tem para adquirir algo de necessidade, se sustentar ou concluir um projeto. Como solução, é a criação de um protótipo de um aplicativo em que gerência doações, na qual o usuário poderá abrir uma vaquinha online. Nele o usuário poderá expor as suas necessidades financeiras ou compartilhar suas ideias e assim arrecadar fundos. Os fundos ficarão concentrados em um banco de dados para serem depositados em seus devidos legados ou sacados, havendo a menor taxa possível para cobrir os encargos ligados à transferência dos fundos e à gestão do projeto.</p>
+<div align="center">
+  <h3><b>Resumo</b></h3>
   </div>
+O artigo desse repositório apresenta o planejamento e criação de um protótipo de um aplicativo, no qual a problemática é a dificuldade financeira que uma pessoa tem para adquirir algo de necessidade, se sustentar ou concluir um projeto. Como solução, é a criação de um protótipo de um aplicativo em que gerência doações, na qual o usuário poderá abrir uma vaquinha online. Nele o usuário poderá expor as suas necessidades financeiras ou compartilhar suas ideias e assim arrecadar fundos. Os fundos ficarão concentrados em um banco de dados para serem depositados em seus devidos legados ou sacados, havendo a menor taxa possível para cobrir os encargos ligados à transferência dos fundos e à gestão do projeto.
 
 #
 
@@ -23,13 +23,14 @@
 
 #
 
-<div>
-  <h3><b><center>Considerações finais</b></h3>
-  <p>A ideia do projeto em si, é trazer a vantagem e acessibilidade que a tecnologia é capaz de proporcionar, resolvendo problemas sociais financeiros comuns que sempre houve, seja problemas de falta de renda ou falta de verba para ideias ou projetos das quais não teríamos condições de darmos seguimentos sem algum tipo de auxílio. A aplicação serve para conectar aqueles que tenham condições financeiras e com a disposição para doar para alguém que esteja precisando de alguma ajuda financeira.</br>Como implementações futuras, iremos realizar a integração de nosso site com o nosso banco de dados, e a partir do protótipo, construir um aplicativo real para a melhor usabilidade de nossos clientes.
-</p>
+<div align="center">
+  <h3><b>Considerações finais</b></h3>
   </div>
+A ideia do projeto em si, é trazer a vantagem e acessibilidade que a tecnologia é capaz de proporcionar, resolvendo problemas sociais financeiros comuns que sempre houve, seja problemas de falta de renda ou falta de verba para ideias ou projetos das quais não teríamos condições de darmos seguimentos sem algum tipo de auxílio. A aplicação serve para conectar aqueles que tenham condições financeiras e com a disposição para doar para alguém que esteja precisando de alguma ajuda financeira.</br>Como implementações futuras, iremos realizar a integração de nosso site com o nosso banco de dados, e a partir do protótipo, construir um aplicativo real para a melhor usabilidade de nossos clientes.
 
-<h4><a href="https://github.com/Biellms/ProjetoIntegrador-GoDonate/tree/main/Documentação" target="_blank"><p target="blank">Documentação 📄</a></h3>
+<br>
+
+<h4><a href="https://github.com/Biellms/ProjetoIntegrador-GoDonate/tree/main/Documentação" target="_blank"><p target="blank"><b>• Documentação 📄</b></a></h3>
 
 #
   
